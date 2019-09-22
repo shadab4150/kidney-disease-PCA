@@ -1,4 +1,4 @@
-# kidney-disease-PCA
+# Kidney-Disease-Analysis
 # Explorative Data Analysis
 # Principal Component Analysis and its projection
 * This dataset contains data of kidney disease taken from apollo hospitals.
